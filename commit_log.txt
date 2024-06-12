@@ -6,3 +6,4 @@ Commit on 2024-06-04 00:00:00: Cleaned up unused imports and code
 Commit on 2024-06-14 00:00:00: Bug fixes for edge cases in ASR engine
 Commit on 2024-06-11 00:00:00: Added support for additional languages
 Commit on 2024-06-08 00:00:00: Enhanced logging for better debugging
+Commit on 2024-06-13 00:00:00: Updated documentation for new features
