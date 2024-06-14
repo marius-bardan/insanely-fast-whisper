@@ -11,3 +11,4 @@ Commit on 2024-06-15 00:00:00: Refined error handling in transcription module
 Commit on 2024-06-17 00:00:00: Refined error handling in transcription module
 Commit on 2024-06-19 00:00:00: Improved batch processing performance
 Commit on 2024-06-21 00:00:00: Refactored model inference pipeline
+Commit on 2024-06-15 00:00:00: Added support for additional languages
