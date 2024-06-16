@@ -8,3 +8,4 @@ Commit on 2024-06-11 00:00:00: Added support for additional languages
 Commit on 2024-06-08 00:00:00: Enhanced logging for better debugging
 Commit on 2024-06-13 00:00:00: Updated documentation for new features
 Commit on 2024-06-15 00:00:00: Refined error handling in transcription module
+Commit on 2024-06-17 00:00:00: Refined error handling in transcription module
