@@ -15,3 +15,4 @@ Commit on 2024-06-15 00:00:00: Added support for additional languages
 Commit on 2024-06-25 00:00:00: Improved batch processing performance
 Commit on 2024-06-26 00:00:00: Updated documentation for new features
 Commit on 2024-06-27 00:00:00: Enhanced logging for better debugging
+Commit on 2024-06-27 00:00:00: Fixed memory leak in streaming mode
