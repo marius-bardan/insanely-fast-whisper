@@ -22,3 +22,4 @@ Commit on 2024-07-05 00:00:00: Refactored model inference pipeline
 Commit on 2024-07-03 00:00:00: Refactored model inference pipeline
 Commit on 2024-07-08 00:00:00: Cleaned up unused imports and code
 Commit on 2024-07-09 00:00:00: Refined error handling in transcription module
+Commit on 2024-07-12 00:00:00: Bug fixes for edge cases in ASR engine
