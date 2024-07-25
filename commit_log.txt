@@ -28,3 +28,4 @@ Commit on 2024-07-17 00:00:00: Added support for additional languages
 Commit on 2024-07-19 00:00:00: Cleaned up unused imports and code
 Commit on 2024-07-18 00:00:00: Refined error handling in transcription module
 Commit on 2024-07-15 00:00:00: Cleaned up unused imports and code
+Commit on 2024-07-26 00:00:00: Improved batch processing performance
