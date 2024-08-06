@@ -38,3 +38,4 @@ Commit on 2024-07-31 00:00:00: Enhanced logging for better debugging
 Commit on 2024-07-27 00:00:00: Refactored model inference pipeline
 Commit on 2024-08-03 00:00:00: Updated documentation for new features
 Commit on 2024-08-07 00:00:00: Updated documentation for new features
+Commit on 2024-08-07 00:00:00: Refined error handling in transcription module
