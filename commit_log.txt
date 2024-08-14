@@ -43,3 +43,4 @@ Commit on 2024-08-12 00:00:00: Updated documentation for new features
 Commit on 2024-08-15 00:00:00: Refactored model inference pipeline
 Commit on 2024-08-14 00:00:00: Optimized processing speed
 Commit on 2024-08-15 00:00:00: Optimized processing speed
+Commit on 2024-08-15 00:00:00: Added support for additional languages
