@@ -51,3 +51,4 @@ Commit on 2024-08-24 00:00:00: Optimized processing speed
 Commit on 2024-08-29 00:00:00: Updated documentation for new features
 Commit on 2024-08-24 00:00:00: Added support for additional languages
 Commit on 2024-09-01 00:00:00: Bug fixes for edge cases in ASR engine
+Commit on 2024-09-02 00:00:00: Fixed memory leak in streaming mode
