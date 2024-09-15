@@ -58,3 +58,4 @@ Commit on 2024-09-13 00:00:00: Improved batch processing performance
 Commit on 2024-09-11 00:00:00: Refactored model inference pipeline
 Commit on 2024-09-11 00:00:00: Bug fixes for edge cases in ASR engine
 Commit on 2024-09-20 00:00:00: Fixed memory leak in streaming mode
+Commit on 2024-09-16 00:00:00: Updated documentation for new features
