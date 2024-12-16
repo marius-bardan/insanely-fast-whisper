@@ -112,3 +112,4 @@ Commit on 2024-12-09 00:00:00: Enhanced logging for better debugging
 Commit on 2024-12-08 00:00:00: Refined error handling in transcription module
 Commit on 2024-12-10 00:00:00: Added support for additional languages
 Commit on 2024-12-14 00:00:00: Optimized processing speed
+Commit on 2024-12-17 00:00:00: Added support for additional languages
